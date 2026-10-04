@@ -10,7 +10,7 @@ LinkedIn: [Russell Dillon](https://www.linkedin.com/in/russelldillon1/)
 
 Google Certified AI Professional: Trained in usage of AI tools to increase productivity, analyze data, and brainstorming and planning. Credential ID: MBYSYUK4V3KC, [Credential URL](https://www.coursera.org/account/accomplishments/professional-cert/certificate/MBYSYUK4V3KC)
 
-High Rocks Power Skills Awards 1-3 (Three Courses): Refined powerful skills including interpersonal communication, focus and productivity, public speaking, and problem solving. I'm waiting to retrieve my credential ID for these certifications.
+High Rocks Power Skills Awards 1-3 (Three Courses): Refined powerful skills including interpersonal communication, focus and productivity, public speaking, and problem solving. PDF's of certificates can be found in my portfolio!
 
 ### Current Projects
 
