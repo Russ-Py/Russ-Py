@@ -20,9 +20,14 @@ FreeCodeCamp Python Certification: working to establish my proficiency in Python
 
 For these projects you can find a more detailed explanation and supporting documentation in my Personal Projects Repository!
 
-Grover's Quantum Search Algorithm Simulation with Three Noise Models: Simulated Grover's Quantum brute force search algorithm (five qubits) with thermal relaxation, depolarization, and readout errors. Achieving relative accuracies, compared to an ideal simulation, of 12.94%, 10.451%, and 90.23%. The script for simulating this algorithm allows you to modify the parameters for error rates and quantity of qubits for extensive simulation.
+#### Grover's Quantum Search Algorithm Simulation with Three Noise Models
 
-Hanbury Brown-Twiss (HBT) and Grangier, Rogers, Aspect (GRA) Experiments: Recreated the HBT, and GRA experiments, optical procedures that validated the quantum nature of light on a Thorlabs precision optical table.
+Simulated Grover's Quantum brute force search algorithm (five qubits) with thermal relaxation, depolarization, and readout errors. Achieving relative accuracies, compared to an ideal simulation, of 12.94%, 10.451%, and 90.23%. The script for simulating this algorithm allows you to modify the parameters for error rates and quantity of qubits for extensive simulation.
+
+#### Hanbury Brown-Twiss (HBT) and Grangier, Rogers, Aspect (GRA) Experiments
+
+Recreated the HBT, and GRA experiments, optical procedures that validated the quantum nature of light on a Thorlabs precision optical table.
+
 ### Professional Experience
 
 #### Quantum Technology Club President | Aug. 2025 - May 2026 
